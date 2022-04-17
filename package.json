@@ -7,9 +7,12 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
+    "@elemaudio/core": "^1.0.0",
+    "@elemaudio/web-renderer-lite": "^1.0.0",
     "p5": "^1.4.1",
     "tone": "^14.7.77",
-    "vue": "^3.2.31",
+    "vue": "^3.2.33",
+    "vue-p5": "^0.8.4",
     "vue-router": "^4.0.14"
   },
   "devDependencies": {
