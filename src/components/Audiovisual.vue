@@ -87,7 +87,7 @@ data() {
                 s.colorMode(s.HSB);
             }
             s.draw = () => {
-                s.background(200, 40, 96);
+                s.background(255);
                 let mouseOnCounter = 0;
 
                 s.stroke(0);

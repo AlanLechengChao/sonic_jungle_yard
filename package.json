@@ -18,5 +18,17 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
     "vite": "^2.9.1"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanLechengChao/sonic_jungle_yard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanLechengChao/sonic_jungle_yard/issues"
+  },
+  "homepage": "https://github.com/AlanLechengChao/sonic_jungle_yard#readme"
 }
